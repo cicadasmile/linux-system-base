@@ -12,6 +12,9 @@ Linux系统，基础用法积累，常用开发环境搭建，运维相关操作
 [5、Centos7下搭建ElasticSearch中间件，常用接口演示](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483901&idx=1&sn=93e3f5c2e190ec8114593f0652303678&chksm=fdf45545ca83dc534627faa21ad8026da3e5cee51fb77bb39990b4225271540a447004915ff0&token=317931696&lang=zh_CN#rd)<br/>
 [6、Centos7下搭建Nginx，FastDFS文件管理中间件](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483913&idx=1&sn=5bf4b2d196bc711cf8ea00b653d91052&chksm=fdf456b1ca83dfa7ed39e7fcd55f5768f9ff6c233f8c0e0757f6dcc387699dbc1ef4f9add455&token=317931696&lang=zh_CN#rd)<br/>
 
+## 数据管理
+[1、MySQL数据以全量和增量方式，向ES搜索引擎同步流程](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484080&idx=1&sn=09f0fe1552157fd5f432f3fa37a67cb8&chksm=fdf45608ca83df1ee236fef6d6a6db3ecb29f52ad8f126f072f403d89372736060e0eb03b0db&token=188659150&lang=zh_CN#rd)
+
 ## 关于作者
 【<b>公众号：知了一笑</b>】    【<b><a href="https://www.zhihu.com/people/cicadasmile/columns">知乎专栏</a></b>】<br/>
 <img width="255px" height="255px" src="https://avatars0.githubusercontent.com/u/50793885?s=460&v=4"/><br/>
