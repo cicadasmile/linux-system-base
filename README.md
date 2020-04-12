@@ -18,6 +18,7 @@ Linux系统，基础用法积累，常用开发环境搭建，运维相关操作
 |05|[Centos7下搭建ElasticSearch中间件，常用接口演示](https://mp.weixin.qq.com/s/8OJ-KsRmExmcMrTyIdFQjg)|
 |06|[Centos7下搭建Nginx，FastDFS文件管理中间件](https://mp.weixin.qq.com/s/UpPAPOHzZVBZwvFS_YX6Pw)|
 |07|[Centos7下搭建ClickHouse列式存储数据库](https://mp.weixin.qq.com/s/DUzOqK2Fnn0ROu0ZMtQNUA)|
+|08|[Centos7下搭建PostgreSQL关系型数据库](https://mp.weixin.qq.com/s/fz5x1QRPtQC3mFcuw3ELPA)|
 
 ### 数据运维
 
